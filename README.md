@@ -11,7 +11,9 @@
 
 </div>
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
+</div>
 
 ## What I can do for you:
 
@@ -45,6 +47,33 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
 
 <br/>  
+<div align="center">
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
+</div>
 
+<p align="center">
+  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+
+
+<p align="center">
+  <a href="mailto:tom.kinddev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/vt23Ov5a9zg9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Akamala88071015" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://discordapp.com/users/joni_727373" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  &nbsp;&nbsp;
+</p>
+
+<div align="center">
+  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
+</div>
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
