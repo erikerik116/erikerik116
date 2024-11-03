@@ -63,7 +63,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/Akamala88071015" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://discordapp.com/users/joni_727373" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
+  <a href="https://discordapp.com/users/304228787250528256" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
 </p>
 
