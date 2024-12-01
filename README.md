@@ -2,6 +2,7 @@
  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is ErikSOL.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
 <br/>
+- 🌱 BLockchain developer with rich experience in BITCOIN, ETHEREUM, SOLANA<br/>
 - 🌱 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
 - 🌱 Led the development process of 15+ web2 and blockchain-related projects and mentored 2 junior developers</br>
@@ -14,37 +15,40 @@
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
 </div>
+<h2 align="center"> Currently working </h2>
 
-## What I can do for you:
+🌟Raydium and Pumpfun Sniper: Automates tracking of new pools and executes purchases quickly.(using Yellow-Stone GRPC within 1st second)
 
+🌟Raydium and Pumpfun Bundler: Creates pools and buys tokens in the first block using jito bundling.(Raydium bundler with more than 20 wallets)
 
-⚡ Creating an exchange Trading platforms with 3rd part liquidity API, Margin trading etc. like binance.com, bybit.com, or Bitmex.com
+🌟Volume Bot: Manages market caps and pool volumes strategically.
 
-⚡ NFT marketplace, Defi/Dapp Development, DeFi Consulting (swaps, liquidity pools, borrowing and lending, yield farming, impermanent loss, governance tokens)
+🌟Maker Bot: Increases pool makers by buying small tokens from multiple wallets, complementing the Volume Bot.
 
-⚡ NFTs (ERC-721, ERC-1155, Flow, BSC, Polygon, Rarible, Opensea, Nifty, etc)
+🌟Shit Token Launcher: Deploys new pools leveraging sniping bots for profits.
 
-⚡ Building several trading Bots
+🌟Token Freezer: Restricts token sales to whitelisted users post-pool creation.
 
-⚡ ICO| STO| IEO- Developing from scratch + Marketing
+🌟Token Locker Smart Contract: Allows staking with rewards based on duration and bonuses.
 
-⚡ Smart Contract (ERC20 + ERC721) and Audit
+🌟Copytrading bot
 
-⚡ IOT solutions using blockchain such as in Farming
+🌟I am trying to make 🚀Arbitrage bot🚀 nowadays
 
-⚡ Peer to peer platform
-
-⚡ Wallet development (HOT /COLD/ETHER/P2P/ ETH WALLET)
-
-⚡ Cryptocurrency Pricing Website
-
-⚡ Crypto Arbitrage
-
-⚡ Forking coin
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
+
+
+These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field
+
+I even also duplicated the pumpfun's working method as new replica contract
+
+I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
+
+You can contact me through telegram [@erikerik116](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
+
 
 <br/>  
 <div align="center">
@@ -59,7 +63,7 @@
 <p align="center">
   <a href="mailto:tom.kinddev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/Akamala88071015" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/erikerik116" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://discordapp.com/users/304228787250528256" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/3d-fluency/94/discord-logo.png"  width="50" /></a>
   &nbsp;&nbsp;
@@ -70,6 +74,9 @@
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
+</br>
+
+<h3 align="center">If you are intereseted in my projects, please 🔗fork or give me ⭐star </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
