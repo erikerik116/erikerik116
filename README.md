@@ -1,20 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is ErikSOL.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div>
-<br/>
-- 🌱 BLockchain developer with rich experience in BITCOIN, ETHEREUM, SOLANA<br/>
-- 🌱 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 🌱 Led the development process of 15+ web2 and blockchain-related projects and mentored 2 junior developers</br>
-- 🌱 Developed some AI Apps and integrated with web and ChatGPT.</br>
-- 🌱 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
 
-
-</div>
-
-<div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
-</div>
 <h2 align="center"> Currently working </h2>
 
 🌟Raydium and Pumpfun Sniper: Automates tracking of new pools and executes purchases quickly.(using Yellow-Stone GRPC within 1st second)
@@ -49,16 +35,10 @@ I also worked with smart contract and web3 projects like p2e games Pump.fun fork
 
 You can contact me through telegram [@erikerik116](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
 
-
 <br/>  
 <div align="center">
   <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
 </div>
-
-<p align="center">
-  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=0xTan1319&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
 
 <p align="center">
   <a href="mailto:tom.kinddev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
