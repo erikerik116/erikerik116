@@ -55,8 +55,6 @@ You can contact me through telegram [@erikerik116](https://t.me/erikerik116) The
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 </br>
-
-<h3 align="center">If you are intereseted in my projects, please 🔗fork or give me ⭐star </h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
