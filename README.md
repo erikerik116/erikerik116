@@ -89,8 +89,10 @@ You can contact me through telegram [@erikerik116](https://t.me/erikerik116) The
 
 
 <div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider2.png" alt="divider"/>
+ -------------------------------------------------------------------------------------------
 </div>
+
+
 
 <p align="center">
   <a href="mailto:tom.kinddev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
@@ -102,7 +104,7 @@ You can contact me through telegram [@erikerik116](https://t.me/erikerik116) The
 </p>
 
 <div align="center">
-  <img src="https://github.com/0xTan1319/0xTan1319/blob/main/divider1.png" alt="divider"/>
+ ----------------------------------------------***********----------------------------------------------
 </div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
