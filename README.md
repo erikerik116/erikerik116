@@ -62,6 +62,10 @@
 
 - 🚀Raydium bundler with more than 20 wallets🚀
 
+- 🚀Super Raydium bundler bot V4 (avoid from bubblemap's ditecting.)🚀
+ 
+- 🚀Super Raydium bundler bot V5 (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
+
 - 🚀Raydium Volume booster🚀
 
 - 🚀Shit-token Launcher using raydium bundler🚀
