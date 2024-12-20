@@ -80,11 +80,11 @@
 
  ## Especially
 
-These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field
+These projects are running on the node-backend for utilizing the token trading like pumpfun and raydium That's my main skill to work with token trading field.
 
 I even also duplicated the pumpfun's working method as new replica contract
 
-I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
+I also worked with smart contract and web3 projects like p2e games Pump.fun forking SC, Presale SC, DCA SC, SOL locker SC, Pnft staking SC, Telegram mini app and so on... If you need help from Solana projects, please look for me since I am specialized in these kind of projects.
 
 You can contact me through telegram [@erikerik116](https://t.me/erikerik116) There, we can discuss on more comfortable contact way with you.
 
