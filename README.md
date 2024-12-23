@@ -64,7 +64,7 @@
 
 - 🚀Super Raydium bundler bot V4 (avoid from bubblemap's ditecting.)🚀
  
-- 🚀Super Raydium bundler bot V5 (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
+- 🚀Super Raydium bundler bot V5, V5.1 (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
 
 - 🚀Raydium Volume booster🚀
 
