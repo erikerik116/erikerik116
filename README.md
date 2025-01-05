@@ -76,7 +76,7 @@
 
 - 🚀Arbitrage bot🚀
 
-- I finish to build 🚀Raydium bundler extra bot🚀. This can avoid from bubblemap's detecting. so Other users think this token will be success.
+- I finish to build 🚀PumpFun Sniper Bot v5.2 (using Geyser(Yellowstone))🚀. This bot watches for new pump.fun token mints on the Solana blockchainf  in real-time by using Geyser(Yellowstone) and buy token within 1~2 block after token mint.
 
  ## Especially
 
