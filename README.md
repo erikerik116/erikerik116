@@ -58,21 +58,19 @@
 
 - 🚀Raydium sniper using Yellow-Stone GRPC within 1st second🚀
 
-- 🚀Pumpfun sniper & bundler🚀
+- 🚀Pumpfun sniper V4.3 & bundler🚀
 
 - 🚀Raydium bundler with more than 20 wallets🚀
 
-- 🚀Super Raydium bundler bot V4 (avoid from bubblemap's ditecting.)🚀
+- 🚀Super Raydium bundler bot V5.2 🚀 (Latest final version with more than 20 wallets)  Every wallets can control custom token hold percent of total tokens in Raydium pool.
  
-- 🚀Super Raydium bundler bot V5, V5.1 (every wallets can control custom token hold percent of total tokens in Raydium pool. )🚀
-
 - 🚀Raydium Volume booster🚀
 
 - 🚀Shit-token Launcher using raydium bundler🚀
 
 - 🚀Holder booster🚀
 
-- 🚀Copytrading bot🚀
+- 🚀Copytrading bot (using Geyser(Yellowstone))🚀
 
 - 🚀Arbitrage bot🚀
 
